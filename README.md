@@ -29,3 +29,17 @@
 * [GitHub - Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 * [ML Resources](https://sgfin.github.io/learning-resources/)
 * [500+ awesome bookmarks for Data Science & Machine Learning](https://towardsdatascience.com/500-free-high-quality-online-resources-for-data-science-machine-learning-7eda5bf33872)
+
+## OpenSource Projects
+* [Scikit-Learn](https://scikit-learn.org/stable/) - ([github](https://github.com/scikit-learn/scikit-learn))
+* [TensorFlow](https://www.tensorflow.org/) - ([github](https://github.com/tensorflow))
+* [Keras](https://keras.io/) - ([github](https://github.com/keras-team/keras))
+* [Pytorch](https://pytorch.org/) - ([github](https://github.com/pytorch/pytorch))
+* [FastAi](https://docs.fast.ai/) - ([github](https://github.com/fastai/fastai))
+* [Apache MXNet](https://mxnet.apache.org/) -([github](https://github.com/apache/incubator-mxnet))
+* [Microsoft Cognitive Toolkit](https://www.microsoft.com/en-us/cognitive-toolkit/) - ([github](https://github.com/Microsoft/CNTK/))
+* [Theano](http://www.deeplearning.net/software/theano/) - ([github](https://github.com/Theano/Theano))
+* [Caffe](http://caffe.berkeleyvision.org/) - ([github](https://github.com/BVLC/caffe/))
+* [Torch](http://torch.ch/) - ([github](https://github.com/torch/torch7))
+* [Accord.NET](http://accord-framework.net/) - ([github](https://github.com/accord-net/framework/))
+* [ML.NET](https://dotnet.microsoft.com/apps/machinelearning-ai/ml-dotnet) - ([github](https://github.com/dotnet/machinelearning))
