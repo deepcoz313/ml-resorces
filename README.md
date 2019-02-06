@@ -17,6 +17,16 @@
 * [DeepLizard Youtube - Machine Learning & Deep Learning Fundamentals](https://www.youtube.com/playlist?list=PLZbbT5o_s2xq7LwI2y8_QtvuXZedL6tQU)
 * [DeepLizard Youtube - Keras - Python Deep Learning Neural Network API](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrwRnXk_yCPtnqqo4_u2YGL)
 * [Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+* [Siraj Raval Youtube Channel](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A/playlists)
+* [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
+* [BigML Webinars Youtube](https://www.youtube.com/playlist?list=PL1bKyu9GtNYHcjGa6ulrvRVcm1lAB8he3)
+* [Machine Learning,, mathematicalmonk](https://www.youtube.com/playlist?list=PLD0F06AA0D2E8FFBA)
+* [Machine learning in Python with scikit-learn](https://www.youtube.com/playlist?list=PL5-da3qGB5ICeMbQuqbbCOQWcS6OYBr5A)
+* [Statistical Machine Learning](https://www.youtube.com/watch?v=zcMnu-3wkWo&list=PLTB9VQq8WiaCBK2XrtYn5t9uuPdsNm7YE)
+* [Machine Learning with Python](https://www.youtube.com/watch?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v&v=OGxgnH8y2NM)
+* [Neural Networks for Machine Learning — Geoffrey Hinton 2016](https://www.youtube.com/watch?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9&v=cbeTc-Urqak)
+* [Deep Learning TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/playlists)
+* [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
 
 ## Tutorials
 * [AWS Training - Machine Learning ](https://aws.amazon.com/training/learning-paths/machine-learning/)
@@ -25,6 +35,9 @@
 * [Distill - Machine Learning Research Explained Clearly](https://distill.pub)
 
 ## Sites, Blogs
+* [Machine Learning is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+* [Machine Learning: An In-Depth Guide - Overview, Goals, Learning Types, and Algorithms](https://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
+* [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 * [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 * [GitHub - Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch)
 * [ML Resources](https://sgfin.github.io/learning-resources/)
@@ -63,3 +76,18 @@
 * [ChatterBot](https://github.com/gunthercox/ChatterBot)
 * [ImgAug](https://github.com/aleju/imgaug)
 * [AirSim](https://github.com/Microsoft/AirSim)
+
+## Practical Books
+* [Python Machine Learning, Sebastian Raschka](https://github.com/rasbt/python-machine-learning-book)
+* [Machine Learning: An Algorithmic Perspective, Stephen Marsland](https://github.com/alexsosn/MarslandMLAlgo)
+* [An Introduction to Statistical Learning, Tibshirani](https://github.com/JWarmenhoven/ISLR-python)
+* [Building Machine Learning Systems with Python, Willi Richert](https://github.com/luispedro/BuildingMachineLearningSystemsWithPython)
+* [Learning scikit-learn: Machine Learning in Python, Raul Garreta](https://github.com/gmonce/scikit-learn-book)
+* [Reinforcement Learning An Introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+
+## Interview Questions
+* [40 Interview Questions asked at Startups in Machine Learning / Data Science](https://www.analyticsvidhya.com/blog/2016/09/40-interview-questions-asked-at-startups-in-machine-learning-data-science/)
+* [21 Must-Know Data Science Interview Questions and Answers](https://www.kdnuggets.com/2016/02/21-data-science-interview-questions-answers.html)
+* [Top 50 Machine Learning Interview Questions & Answers	](https://career.guru99.com/top-50-interview-questions-on-machine-learning/)
+* [Collection of Machine Learning Interview Questions](http://analyticscosm.com/machine-learning-interview-questions-for-data-scientist-interview/)
+* [121 MLQA – Study Guide Edition Reading List](https://elitedatascience.com/mlqa-reading-list)
