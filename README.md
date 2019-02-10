@@ -35,6 +35,7 @@
 * [Distill - Machine Learning Research Explained Clearly](https://distill.pub)
 
 ## Sites, Blogs
+* [Papers With Code](https://paperswithcode.com/)
 * [Machine Learning is fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 * [Machine Learning: An In-Depth Guide - Overview, Goals, Learning Types, and Algorithms](https://www.innoarchitech.com/machine-learning-an-in-depth-non-technical-guide/)
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
@@ -76,6 +77,7 @@
 * [ChatterBot](https://github.com/gunthercox/ChatterBot)
 * [ImgAug](https://github.com/aleju/imgaug)
 * [AirSim](https://github.com/Microsoft/AirSim)
+* [ConvNetJs](https://github.com/karpathy/convnetjs)
 
 ## Practical Books
 * [Python Machine Learning, Sebastian Raschka](https://github.com/rasbt/python-machine-learning-book)
