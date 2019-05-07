@@ -27,6 +27,7 @@
 * [Neural Networks for Machine Learning — Geoffrey Hinton 2016](https://www.youtube.com/watch?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9&v=cbeTc-Urqak)
 * [Deep Learning TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ/playlists)
 * [Neural networks class - Université de Sherbrooke](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
+* [StatQuest with Josh Starmer](https://www.youtube.com/user/joshstarmer)
 
 ## Tutorials
 * [AWS Training - Machine Learning ](https://aws.amazon.com/training/learning-paths/machine-learning/)
